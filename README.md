@@ -16,7 +16,7 @@ Part 4: Basic rectangular collision detection.
 ![](part-4.PNG?raw=true)
 
 Part 5: Change from square sprite to bunny, added animation.
-![](part-5.PNG?raw=true)
+![](part5.PNG?raw=true)
 
 Final Part: Completed collision detection with carrots, added final animations, tweaked jumping and movement.
 ![](part-final.PNG?raw=true)
